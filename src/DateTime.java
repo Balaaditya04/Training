@@ -24,7 +24,7 @@ public class DateTime {
         System.out.println("Today's Date: " + todaysDate);
         System.out.println("Today's Time: " + todaysTime);
         System.out.println("Tomorrow's Day: "+ tomorrowDate);
-        System.out.println(zone
+        System.out.println(zone);
         System.out.println("Date after subtracting 100 days: " + prevDate);
         System.out.println("Some Other date: " + someOtherDate);
         System.out.println("Current Date and Time: " + now.format(formatter));
